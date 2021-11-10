@@ -6,4 +6,6 @@
 ![alt text for screen readers](https://github.com/JOELGEORGEALEX/ESP32_CNC_Controller/blob/main/ftdiflash.JPG "ESP32__CNC_BOARD")
 ![alt text for screen readers](https://github.com/JOELGEORGEALEX/ESP32_CNC_Controller/blob/main/motordriv.JPG "ESP32__CNC_BOARD")
 ![alt text for screen readers](https://github.com/JOELGEORGEALEX/ESP32_CNC_Controller/blob/main/arduinoesp.jpg "ESP32__CNC_BOARD")
-![alt text for screen readers](https://github.com/JOELGEORGEALEX/ESP32_CNC_Controller/blob/main/esp1.jpeg "ESP32__CNC_BOARD")
+![alt text for screen readers](https://github.com/JOELGEORGEALEX/ESP32_CNC_Controller/blob/main/grblweb.png "ESP32__CNC_BOARD")
+![alt text for screen readers](https://github.com/JOELGEORGEALEX/ESP32_CNC_Controller/blob/main/grblweb2.png "ESP32__CNC_BOARD")
+![alt text for screen readers](https://github.com/JOELGEORGEALEX/ESP32_CNC_Controller/blob/main/esp2.jpeg "ESP32__CNC_BOARD")
