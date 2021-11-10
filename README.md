@@ -4,7 +4,9 @@
 ### Objectives
 * To build a wireless CNC controller board, so that the machines will become system independent
 * Support 4 axis motors,SD_CARD,Axis limits/TMC_SPI.
-* 
+* Flash the espwroom32 module directly from USB with FTDI chip,without use of hardware buttons
+* Upload gcodesfiles /send gcodes live to CNC machines with the help of any systems
+### Version 1 Board
 ![alt text for screen readers](https://github.com/JOELGEORGEALEX/ESP32_CNC_Controller/blob/main/esp1.jpeg "ESP32__CNC_BOARD")
 ![alt text for screen readers](https://github.com/JOELGEORGEALEX/ESP32_CNC_Controller/blob/main/EAGLE.png "ESP32__CNC_BOARD")
 ![alt text for screen readers](https://github.com/JOELGEORGEALEX/ESP32_CNC_Controller/blob/main/ESP32.JPG "ESP32__CNC_BOARD")
