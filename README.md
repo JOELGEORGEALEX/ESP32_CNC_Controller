@@ -23,5 +23,6 @@
 
 ### Web interface for axis control,GCODE upload
 ![alt text for screen readers](https://github.com/JOELGEORGEALEX/ESP32_CNC_Controller/blob/main/grblweb.png "ESP32__CNC_BOARD")
+### SDCARD file manager for File read
 ![alt text for screen readers](https://github.com/JOELGEORGEALEX/ESP32_CNC_Controller/blob/main/grblweb2.png "ESP32__CNC_BOARD")
 ![alt text for screen readers](https://github.com/JOELGEORGEALEX/ESP32_CNC_Controller/blob/main/esp2.jpeg "ESP32__CNC_BOARD")
